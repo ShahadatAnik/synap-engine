@@ -1,6 +1,6 @@
-import { jsx as t, Fragment as e } from "react/jsx-runtime";
+import { jsx as t, Fragment as r } from "react/jsx-runtime";
 function n() {
-  return /* @__PURE__ */ t(e, { children: "Click me" });
+  return /* @__PURE__ */ t(r, { children: "v1" });
 }
 export {
   n as default
